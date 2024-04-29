@@ -21,7 +21,7 @@ Descrição breve do projeto.
 
 ## Instalação
 
-1. Clone este repositório:
+1. Clone este repositório: https://github.com/mateusdevmelo/JavaCepAPI
 
 ## Contribuição
 
