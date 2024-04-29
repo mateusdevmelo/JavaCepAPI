@@ -1,6 +1,13 @@
-# Nome do Projeto
+# Java API para consulta de CEP
 
-Descrição breve do projeto.
+Este projeto Java oferece uma solução para consultar informações detalhadas sobre CEPs usando uma API pública do Brasil.
+Ele utiliza o Spring Boot para configurar a aplicação e o Spring Data JDBC para interagir com o banco de dados.
+
+## Funcionalidades
+Consulta de informações detalhadas sobre CEPs (Código de Endereço Postal).
+Integração com a API pública do Brasil para obter informações atualizadas sobre CEPs.
+Persistência de dados em um banco de dados MySQL para acesso rápido e eficiente.
+Exibição dos dados consultados no console da IDE de desenvolvimento.
 
 ## Tecnologias utilizadas
 
